@@ -20,7 +20,7 @@ def cipher(text, shift, encrypt=True):
 
     Example
     -------
-    >>> from cipher_yd2564 import cipher
+    >>> from cipher_yd2564 import cipher_yd2564
     >>> text = "Happy Coding!"
     >>> shift = 1
     >>> cipher_yd2564.cipher(text, shift, encrypt = True)
