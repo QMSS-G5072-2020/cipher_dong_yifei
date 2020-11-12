@@ -5,14 +5,18 @@ def cipher(text, shift, encrypt=True):
 
     Parameters
     ----------
-    text : A string that you want to encrypt/decrypt.
-    shift : An integer by which you want to shift the value of a letter.
-    encrypt : A boolean indicating whether you want to apply the encrypt (True)
+    text : str
+        A string that you want to encrypt/decrypt.
+    shift : int
+        An integer by which you want to shift the value of a letter.
+    encrypt : bool
+        A boolean indicating whether you want to apply the encrypt (True)
         or decrypt (False) of the text.
 
     Returns
     -------
-    The encrypted/decrypted text
+    str
+        The encrypted/decrypted text
 
     Example
     -------
