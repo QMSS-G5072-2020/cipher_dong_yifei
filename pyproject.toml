@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_yd2564"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for encoding, decoding messages with the Caesar Shif Cipher."
 authors = ["yifeitung <yifeidong95@gmail.com>"]
 license = "MIT"
